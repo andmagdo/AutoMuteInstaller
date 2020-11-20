@@ -3,10 +3,9 @@
 
 Installs [AutoMuteUs](https://github.com/denverquane/automuteus) on Windows
 
+Also installs Docker in the case of it not being installed.
 
 
-
-**
 
 Have any questions, concerns, bug reports, or just want to chat? Join the discord at https://discord.gg/ZkqZSWF
 
