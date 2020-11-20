@@ -1,5 +1,5 @@
 # Get the open source code at [AutoMuteUs](https://github.com/denverquane/automuteus) Made by [DenverQuane](https://github.com/denverquane)
-# AmongUsInstaller 
+# AutoMuteInstaller 
 
 Installs [AutoMuteUs](https://github.com/denverquane/automuteus) on Windows
 
